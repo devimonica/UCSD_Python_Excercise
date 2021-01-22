@@ -1,0 +1,22 @@
+Ask the user for a number and determine whether the number is prime or not. 
+(For those who have forgotten, a prime number is a number that has no divisors.). 
+You can (and should!) use your answer to Exercise 4 to help you.
+
+Solution:
+
+given_number = int(input('Enter a number: '))
+numbers = range(2, given_number+1)
+def prime():
+    if given_number == 1:
+        print('It is not a prime number')
+    elif given_number == 2:
+        print('It is a prime number')
+    else:
+        for number in numbers:
+            if given_number % number != 0:
+                print('It is a prime number')
+                break
+            else:
+                print('It is not a prime number')
+                break
+prime(given_number)

@@ -10,3 +10,11 @@ shown back to me.
 
 Solution:
 
+def reverse_order():
+    string = input('Enter a sentence: ')
+    # words = string.split()
+    # new_string = words[::-1]
+    # result = " ".join(new_string)
+    # return result
+    return " ".join(string.split()[::-1])
+print(reverse_order())

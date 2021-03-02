@@ -3,4 +3,14 @@ Write a function that takes an ordered list of numbers (a list where the element
 Extras:
 
     Use binary search.
+    
+Solution:
 
+def element_search(list_num, check_num):
+    is_present = False
+    if check_num in list_num:
+        is_present = True
+    return is_present
+print(element_search([1,2,3], 13))
+
+Solution with binary search:

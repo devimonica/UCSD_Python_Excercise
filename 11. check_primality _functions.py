@@ -1,8 +1,8 @@
-Ask the user for a number and determine whether the number is prime or not. 
-(For those who have forgotten, a prime number is a number that has no divisors.). 
-You can (and should!) use your answer to Exercise 4 to help you.
+# Ask the user for a number and determine whether the number is prime or not. 
+# (For those who have forgotten, a prime number is a number that has no divisors.). 
+# You can (and should!) use your answer to Exercise 4 to help you.
 
-Solution:
+# Solution:
 
 ## This solution does not predict correctly for all the numbers
 
@@ -24,7 +24,7 @@ def prime():
 prime(given_number)
 
 
-Corrected solution:
+# Corrected solution:
 
 def prime_num(checking_num):
     if checking_num == 1:

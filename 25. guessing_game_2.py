@@ -10,3 +10,13 @@
 # But that’s not an optimal guessing strategy. An alternate strategy might be to guess 50 (right in the middle of the range), 
 # and then increase / decrease by 1 as needed. After you’ve written the program, try to find the optimal strategy! 
 # (We’ll talk about what is the optimal one next week with the solution.)
+
+# Previous exercise:
+  
+# Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. (Hint: remember to use the user input lessons from the very first exercise)
+
+# Extras:
+
+# Keep the game going until the user types “exit”
+# Keep track of how many guesses the user has taken, and when the game ends, print this out.
+

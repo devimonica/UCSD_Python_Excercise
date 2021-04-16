@@ -16,3 +16,5 @@
 # Remember that in Python 3, printing to the screen is accomplished by
 
 #   print("Thing to show on screen")
+
+# Hint: this requires some use of functions, as were discussed previously on this blog and elsewhere on the Internet, like this TutorialsPoint link.

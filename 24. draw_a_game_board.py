@@ -17,5 +17,5 @@
 
 #   print("Thing to show on screen")
 
-# Hint: this requires some use of functions, as were discussed [previously on this blog](https://www.practicepython.org/exercise/2014/04/16/11-check-primality-functions.html) 
-# and [elsewhere on the Internet, like this TutorialsPoint link](http://www.tutorialspoint.com/python/python_functions.htm?utm_source=7_&utm_medium=affiliate&utm_content=5f34cd37cdf1050001b09537&utm_campaign=Admitad&utm_term=a5e196742126bebb5adcdb73b91b882c).
+Hint: this requires some use of functions, as were discussed [previously on this blog](https://www.practicepython.org/exercise/2014/04/16/11-check-primality-functions.html) 
+and [elsewhere on the Internet, like this TutorialsPoint link](http://www.tutorialspoint.com/python/python_functions.htm?utm_source=7_&utm_medium=affiliate&utm_content=5f34cd37cdf1050001b09537&utm_campaign=Admitad&utm_term=a5e196742126bebb5adcdb73b91b882c).

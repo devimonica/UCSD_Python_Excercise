@@ -19,3 +19,17 @@ Your task this week: given a 3 by 3 list of lists that represents a Tic Tac Toe 
 tell me whether anyone has won, and tell me which player won, if any. A Tic Tac Toe win is 3 in a row - 
 either in a row, a column, or a diagonal. Don’t worry about the case where TWO people have won - 
 assume that in every board there will only be one winner.
+
+Here are some more examples to work with:
+
+winner_is_2 = [[2, 2, 0],
+	[2, 1, 0],
+	[2, 1, 1]]
+
+winner_is_1 = [[1, 2, 0],
+	[2, 1, 0],
+	[2, 1, 1]]
+
+winner_is_also_1 = [[0, 1, 0],
+	[2, 1, 0],
+	[2, 1, 1]]

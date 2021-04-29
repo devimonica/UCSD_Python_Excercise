@@ -15,3 +15,8 @@
 # 	[0, 0, 0],
 # 	[0, 0, 0]]
 
+# The computer asks Player 1 (X) what their move is (in the format row,col), and say they type 1,3. Then the game would print out
+
+# game = [[0, 0, X],
+# 	[0, 0, 0],
+# 	[0, 0, 0]]

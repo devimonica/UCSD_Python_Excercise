@@ -33,3 +33,8 @@
 #     to figure out which row and column they want their piece to be in.
 #     Don’t worry about checking whether someone won the game, but if a player tries to put a piece in a game position where there already 
 #     is another piece, do not allow the piece to go there.
+
+# Bonus:
+
+#     For the “standard” exercise, don’t worry about “ending” the game - no need to keep track of how many squares are full. 
+#     In a bonus version, keep track of how many squares are full and automatically stop asking for moves when there are no more valid moves.

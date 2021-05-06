@@ -22,3 +22,5 @@
 #           f.write(story_heading.a.text.replace("\n", " ").strip())
 #       else: 
 #           f.write(story_heading.contents[0].strip())
+
+# My solution:

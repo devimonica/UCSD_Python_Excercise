@@ -13,4 +13,9 @@ def element_search(list_num, check_num):
     return is_present
 print(element_search([1,2,3], 13))
 
-# Solution with binary search:
+if __name__=="__main__":
+  l = [2, 4, 6, 8, 10]
+  print(find(l, 5)) # prints False
+  print(find(l, 10)) # prints True
+  print(find(l, -1)) # prints False
+  print(find(l, 2)) # prints True

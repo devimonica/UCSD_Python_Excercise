@@ -27,7 +27,7 @@ a = '---'.join('    ')
 b = '   '.join('||||')
 print('\n'.join((a, b, a, b, a, b, a)))
 
-# Solution:
+# Solution using a while loop:
 
 def drawboard(kamal):
     kamal = int(kamal)
